@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #edd2e0;
+}
+
+#header-emoji {
+  font-size: 3rem;
+}
+
+input {
+  min-width: 80%;
+  padding: 0.8rem;
+  font-size: 1.2rem;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: black;
+  margin-top: 2rem;
+}
